@@ -30,7 +30,7 @@ Installation
 -----------------------------------------------------------------------------------------------
 Clone the repository:
 
-git clone https://github.com/eshansharma01/hand-gesture-volume-control.git
+git clone https://github.com/eshansharma01/Wireless-Sound-Control.git
 
 Install the required dependencies:
 
