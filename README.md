@@ -30,7 +30,7 @@ Installation
 -----------------------------------------------------------------------------------------------
 Clone the repository:
 
-git clone https://github.com/yourusername/hand-gesture-volume-control.git
+git clone https://github.com/eshansharma01/hand-gesture-volume-control.git
 
 Install the required dependencies:
 
